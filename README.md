@@ -98,10 +98,11 @@ Utilizamos validação cruzada (`StratifiedKFold`) para garantir que os resultad
 
 ## 👨‍💻 Autores
 
-* **André Santos de Oliveira**
+* André Santos de Oliveira
 * Guilherme Esteves Marret
 * Gustavo Henrique Bueno
-* Sofia Costa Se
+* Sofia Costa Seijas Pena
+* Thiago Macedo Vaz
 
 ---
 
